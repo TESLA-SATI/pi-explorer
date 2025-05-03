@@ -1,0 +1,4 @@
+{#Cooperation apps to solana fork# 44 branches
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
